@@ -2,7 +2,7 @@
 We are a group of friends who play Minecraft in our free time.
 
 ## Required Dependencies
-- Java 11 https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+- Java 11 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 - Minecraft 1.19 version
 - Forge 94 [forge-1.19-41.0.94-installer.jar](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.19-41.0.94/forge-1.19-41.0.94-installer.jar)
 
